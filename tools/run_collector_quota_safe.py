@@ -4,9 +4,9 @@ Quota-safe launcher for collector.py.
 Purpose:
 - preserve collector.py as the main implementation;
 - intercept only Gemini ARTICLE-SELECTION requests;
-- stop immediately on a hard/daily/prepayment 429;
-- keep ordinary transient 429 behaviour unchanged so collector.py can retry it;
-- let collector.py save ai_article_selection_cache.json and exit safely with code 75.
+- stop immediately on ANY 429 response from Gemini article selection;
+- let collector.py save ai_article_selection_cache.json and exit safely with code 75;
+- avoid retry storms that waste Free Tier requests and time.
 """
 
 import json
@@ -49,7 +49,7 @@ def _flatten_error_payload(response):
     except Exception:
         pass
 
-    return " ".join(parts).lower()
+    return " ".join(parts).strip()
 
 
 def _is_article_selection_request(kwargs):
@@ -86,71 +86,6 @@ def _is_article_selection_request(kwargs):
     )
 
 
-def _hard_quota_reason(response):
-    if getattr(response, "status_code", None) != 429:
-        return ""
-
-    text = _flatten_error_payload(response)
-
-    # Unambiguous billing/prepayment exhaustion.
-    billing_markers = (
-        "prepayment credits are depleted",
-        "prepaid credits are depleted",
-        "prepayment credit",
-        "prepaid credit",
-        "credits are depleted",
-        "credit balance",
-    )
-
-    for marker in billing_markers:
-        if marker in text:
-            return marker
-
-    # Daily/RPD quota identifiers used in Gemini / Google quota details.
-    daily_markers = (
-        "perday",
-        "per day",
-        "requestsperday",
-        "requests_per_day",
-        "requestperday",
-        "request_per_day",
-        "daily quota",
-        "daily limit",
-        "\"rpd\"",
-    )
-
-    quota_context = (
-        "quota" in text
-        or
-        "resource_exhausted" in text
-        or
-        "too many requests" in text
-    )
-
-    if quota_context:
-        for marker in daily_markers:
-            if marker in text:
-                return marker
-
-    # Billing-account failures are also not cured by a short retry.
-    if (
-        "billing" in text
-        and
-        (
-            "depleted" in text
-            or
-            "payment" in text
-            or
-            "credit" in text
-            or
-            "disabled" in text
-        )
-    ):
-        return "billing"
-
-    return ""
-
-
 def quota_safe_post(url, *args, **kwargs):
     response = _ORIGINAL_POST(
         url,
@@ -165,21 +100,23 @@ def quota_safe_post(url, *args, **kwargs):
         and
         getattr(response, "status_code", None) == 429
     ):
-        reason = _hard_quota_reason(response)
+        detail = _flatten_error_payload(response)
+        detail = " ".join(detail.split())[:500]
 
-        if reason:
+        print(
+            "   AI selection 429 detected; stopping immediately "
+            "without retry storm."
+        )
+
+        if detail:
             print(
-                "   AI selection hard quota 429 detected; "
-                "stopping immediately without retry storm."
-            )
-            print(
-                f"   Hard quota indicator: {reason}"
+                f"   Gemini 429 detail: {detail}"
             )
 
-            raise collector.AISelectionQuotaError(
-                "Gemini article-selection daily/prepayment quota reached. "
-                "The run is stopping immediately; cached progress is preserved."
-            )
+        raise collector.AISelectionQuotaError(
+            "Gemini article-selection returned 429. "
+            "The run is stopping immediately; cached progress is preserved."
+        )
 
     return response
 
