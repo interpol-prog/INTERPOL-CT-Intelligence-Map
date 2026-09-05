@@ -155952,9 +155952,1013 @@
         "canonical_event": "Publication of NIS Export Control Observer from May 2004",
         "reason": "This is a historical newsletter issue from 2004."
       }
+    },
+    "1a5df4c0112baf5155c338e1b5e95be8e4ea23aa3ab411f4c3cd213b4200cfbe": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809788+00:00",
+      "result": {
+        "event_id": "0e9abf8853b10f10",
+        "relevance_score": 75,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy",
+          "Legal / Judicial"
+        ],
+        "original_language": "en",
+        "english_title": "China Executes 13 In Piracy Case",
+        "english_summary": "Thirteen individuals have been executed in China following a piracy case.",
+        "canonical_event": "execution of 13 individuals for piracy in China",
+        "reason": "Directly reports on judicial enforcement (executions) relating to maritime piracy, fitting operational maritime crime awareness."
+      }
+    },
+    "c47e94e52df4d3f1a11b1c6f853bd11166b0f2a8e55b0b3b58400c074d987463": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809807+00:00",
+      "result": {
+        "event_id": "fad39ccd2b500ad3",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "First Review Conference of the CWC: Coming of Age",
+        "english_summary": "An analytical piece discussing the First Review Conference of the Chemical Weapons Convention.",
+        "canonical_event": "First Review Conference of the Chemical Weapons Convention",
+        "reason": "Generic arms-control commentary/conference review; lacks a specific concrete CT event."
+      }
+    },
+    "33d289028ff3a869f89e517f95e35481799838ce7222f5a5900f8c4004c8211d": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809811+00:00",
+      "result": {
+        "event_id": "7da9ed3bff3a7ae2",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Security: Ship Security Alert Systems (SSAS)",
+        "english_summary": "An informative article regarding Ship Security Alert Systems for maritime security.",
+        "canonical_event": "overview of Ship Security Alert Systems",
+        "reason": "General preparedness and technical commentary on ship security alert systems rather than a specific piracy event."
+      }
+    },
+    "1dc30c4d63a3460a2dbe7ef264e175836793b71814760b1f043bfee9c101fa73": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809814+00:00",
+      "result": {
+        "event_id": "a51b91a1bf5620ff",
+        "relevance_score": 20,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "Canada and NTI Conclude Agreement to Help Destroy Chemical Weapons in Russia",
+        "english_summary": "Canada and the Nuclear Threat Initiative concluded an agreement to assist in destroying chemical weapons in Russia.",
+        "canonical_event": "agreement between Canada and NTI to destroy chemical weapons in Russia",
+        "reason": "State-level arms reduction/disposal agreement rather than a CT operational event."
+      }
+    },
+    "68a96efb7ee59b86c3e9b3df646945efad7e445f2872f45f99a48df963b06256": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809817+00:00",
+      "result": {
+        "event_id": "45b65ed85d74c38e",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "Global CW Assistance",
+        "english_summary": "Overview of global chemical weapons assistance programs.",
+        "canonical_event": "overview of global chemical weapons assistance",
+        "reason": "Generic policy and assistance overview rather than an actionable CT event."
+      }
+    },
+    "3edff76917dc225a2472fd2921058de1a60e3472fcdf4e37e8438dfbff390003": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809821+00:00",
+      "result": {
+        "event_id": "7db069e7167845f3",
+        "relevance_score": 30,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Cruise Ships On Pirate Alert",
+        "english_summary": "Cruise ships are placed on pirate alert amidst heightened maritime risks.",
+        "canonical_event": "cruise ships placed on pirate alert",
+        "reason": "General threat warning and advisory rather than a specific reported piracy incident or attack."
+      }
+    },
+    "c926675486f01528e873bed0384cf89a75d1d7f0241726c39cd9e058300b6582": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809824+00:00",
+      "result": {
+        "event_id": "9b999aa5f133b5c7",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "Is the Avian Influenza Virus a Suitable Agent for a Biological Weapon?",
+        "english_summary": "An analytical article discussing whether the avian influenza virus is suitable as a biological weapon.",
+        "canonical_event": "analysis of avian influenza as a biological weapon",
+        "reason": "Theoretical commentary and analysis; no specific threat, plot, or attack."
+      }
+    },
+    "c6b53b8a3af69470b0b66c9ad74824f8036b9bcd0e84714c477d03b0fb1543f6": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809827+00:00",
+      "result": {
+        "event_id": "adc5c3e321577b1e",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "Lessons from Select Public Health Events Having Relevance to Bioterrorism Preparedness",
+        "english_summary": "A public health document discussing lessons from events relevant to bioterrorism preparedness.",
+        "canonical_event": "review of public health events for bioterrorism preparedness",
+        "reason": "Generic preparedness and public health commentary."
+      }
+    },
+    "add71f36c2074776c52cb2c5b73f7afa287aff12c56802ce92bd7a31dc275a2e": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809830+00:00",
+      "result": {
+        "event_id": "7da95e350b9025f2",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "The Next Generation of Sensor Technology for the BioWatch Program",
+        "english_summary": "An article detailing sensor technology developments for the BioWatch program.",
+        "canonical_event": "development of sensor technology for the BioWatch program",
+        "reason": "Technology product/program announcement rather than a concrete CT event."
+      }
+    },
+    "e9e24fc6de71a128ad70fd39bbf1f799d9bfc2e2d4f0dba1eb0e13b457b0199d": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809833+00:00",
+      "result": {
+        "event_id": "1f470ceb9c0314bd",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "Hitler's bomb: the secret story of Germans' attempts to get the nuclear weapon",
+        "english_summary": "A historical overview of German attempts to develop a nuclear weapon during World War II.",
+        "canonical_event": "historical account of German World War II nuclear weapons program",
+        "reason": "Historical retrospective with no current CT relevance."
+      }
+    },
+    "85dc3bc5276e9ba851bc843002afcd98a0c72bc1273fde7b87f1acdbe9a91d81": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809836+00:00",
+      "result": {
+        "event_id": "235f6cfac3448ab4",
+        "relevance_score": 80,
+        "is_current_ct_event": true,
+        "categories": [
+          "CBRN",
+          "Legal / Judicial"
+        ],
+        "original_language": "en",
+        "english_title": "Transcript of Amerithrax Investigation Press Conference",
+        "english_summary": "Department of Justice transcript of the press conference regarding the Amerithrax bioterrorism investigation.",
+        "canonical_event": "DOJ press conference transcript on the Amerithrax investigation",
+        "reason": "Official law enforcement operational update and investigative conclusion regarding a major domestic bioterrorism case."
+      }
+    },
+    "f12bccfdb3f4bf43e8925829528f21d2122a883919407aa8f7400350b4d5df39": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809839+00:00",
+      "result": {
+        "event_id": "8a328f624d3ed886",
+        "relevance_score": 55,
+        "is_current_ct_event": true,
+        "categories": [
+          "Attacks",
+          "Legal / Judicial"
+        ],
+        "original_language": "fr",
+        "english_title": "France: Marina Petrella Case - UTA Flight DC-10 Families Association Reacts",
+        "english_summary": "The association of families of victims of the UTA DC-10 bombing reacts to developments in the Marina Petrella affair.",
+        "canonical_event": "families of UTA flight DC-10 bombing victims react in Marina Petrella case in France",
+        "reason": "Relates to reactions on judicial and political handling of a historical terrorist attack and associated legal proceedings."
+      }
+    },
+    "dc365ec623c013d7e85b8f56c3e3b565e003cbc39a17f009e45272e7d8538439": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809842+00:00",
+      "result": {
+        "event_id": "b4d8b6959f954578",
+        "relevance_score": 85,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Bourbon Sagitta Crew Kidnapped",
+        "english_summary": "Crew members of the vessel Bourbon Sagitta have been kidnapped in a maritime attack.",
+        "canonical_event": "kidnapping of crew members from the vessel Bourbon Sagitta",
+        "reason": "Direct report of crew kidnapping in an armed robbery / piracy incident at sea."
+      }
+    },
+    "d16e3ab55908d5a13ae50f9d951f217e67a03bfb07519e9c297392cc19ed7814": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809845+00:00",
+      "result": {
+        "event_id": "a70b864eaa32555b",
+        "relevance_score": 30,
+        "is_current_ct_event": false,
+        "categories": [
+          "Attacks"
+        ],
+        "original_language": "fr",
+        "english_title": "Sahel-Saharan Region: Milestones for Peace, Security, and Stability",
+        "english_summary": "An article discussing peace, security, and stability initiatives in the Sahel-Saharan region.",
+        "canonical_event": "discussion on peace and security in the Sahel-Saharan region",
+        "reason": "Broad geopolitical commentary on regional security rather than a specific terrorist event or operation."
+      }
+    },
+    "226c397389abb64dbb7312f00822281d4518f70342ac8f138e9dd133fdbe40ca": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809848+00:00",
+      "result": {
+        "event_id": "75535f27870b9efe",
+        "relevance_score": 80,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy",
+          "Arrests"
+        ],
+        "original_language": "en",
+        "english_title": "Royal Navy Hands Over Suspected Pirates",
+        "english_summary": "The UK Royal Navy has handed over suspected pirates detained at sea.",
+        "canonical_event": "Royal Navy hand over of suspected pirates",
+        "reason": "Operational law enforcement action involving the apprehension and transfer of suspected pirates."
+      }
+    },
+    "81ec1558dac2d199bead4c2092382570d82c21d8ab44877df18775296a909752": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809852+00:00",
+      "result": {
+        "event_id": "c0863b0f2721bda0",
+        "relevance_score": 35,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "UNOSAT 3D Map Of Piracy In Gulf Of Aden",
+        "english_summary": "UNOSAT has released a 3D map illustrating piracy incidents in the Gulf of Aden.",
+        "canonical_event": "release of UNOSAT 3D map of piracy in the Gulf of Aden",
+        "reason": "Mapping/visualization report of past incidents rather than a direct current attack report."
+      }
+    },
+    "30bf1c07b7d7673848bf669b9b22f431b1b4e0a5e7b436d47f62bdad39754f15": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809855+00:00",
+      "result": {
+        "event_id": "0c80f8105dc6c43a",
+        "relevance_score": 80,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy",
+          "Attacks"
+        ],
+        "original_language": "en",
+        "english_title": "Pirates Fail with Two Hijacking Attempts on Tanker",
+        "english_summary": "Pirates failed in two consecutive attempts to hijack a tanker owned by Vardis Vardinoyannis.",
+        "canonical_event": "failed pirate hijacking attempts against a tanker owned by Vardis Vardinoyannis",
+        "reason": "Direct report of actual armed pirate attack and attempted vessel hijacking."
+      }
+    },
+    "0968e3fa4efb5d399c64558fab31c7443c933f2734fff8ffec26db832709fcd6": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809857+00:00",
+      "result": {
+        "event_id": "2bf5d7bb102fd52a",
+        "relevance_score": 25,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Deterring Piracy At Sea",
+        "english_summary": "An article discussing methods and measures for deterring piracy at sea.",
+        "canonical_event": "discussion on deterring piracy at sea",
+        "reason": "General guidance and commentary on anti-piracy deterrence rather than a specific event."
+      }
+    },
+    "0dbedcad065c24a80942dda528f138530a2c9e0cf10671810f5b64f7fa0f0ce7": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809860+00:00",
+      "result": {
+        "event_id": "7b57fa1c8f7aa3ba",
+        "relevance_score": 25,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Maritime Security Companies Offering Anti-Piracy Services",
+        "english_summary": "Discussion on private maritime security companies offering anti-piracy services to commercial shipping.",
+        "canonical_event": "overview of maritime security companies offering anti-piracy services",
+        "reason": "Commercial service offering discussion rather than a specific security incident."
+      }
+    },
+    "8bd6da8d83f73bad8e718f9dc375da5b4e6542b4042ba2db5e956d750b1f3783": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:19.809863+00:00",
+      "result": {
+        "event_id": "39ec61ffdf865c3f",
+        "relevance_score": 30,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy",
+          "Weapons"
+        ],
+        "original_language": "en",
+        "english_title": "Ballistic Net System Stops Small Boats",
+        "english_summary": "A ballistic net system designed to stop small boats in anti-piracy operations is presented.",
+        "canonical_event": "presentation of ballistic net system to stop small boats",
+        "reason": "Product or equipment announcement rather than an active security incident."
+      }
+    },
+    "57b943eed4f76ecd94826e04f83109bf5bf6377fed563202290aebda6c6b0c65": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724134+00:00",
+      "result": {
+        "event_id": "db868c69fa77c09e",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "VessEx Expands Anti-Piracy Service",
+        "english_summary": "VessEx expands its anti-piracy services for vessels.",
+        "canonical_event": "VessEx expands anti-piracy service",
+        "reason": "Commercial product or service announcement regarding anti-piracy measures, not an operational maritime piracy event or CT incident."
+      }
+    },
+    "95817158f6b4e2dc151b60ffc00fe8f0f2d925daaed2f2468ed8f0fd2acce340": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724153+00:00",
+      "result": {
+        "event_id": "78086b62e0a34318",
+        "relevance_score": 75,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "MSC Ship Prevents Suspected Piracy Attack",
+        "english_summary": "An MSC ship successfully prevents a suspected piracy attack.",
+        "canonical_event": "MSC ship prevents suspected piracy attack at sea",
+        "reason": "Concrete report of an attempted maritime piracy attack and its prevention."
+      }
+    },
+    "eac4b3cf9477dffa35d87bb5215b5b3e2e07cc000fbb04fde3c91b2118b1d32a": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724157+00:00",
+      "result": {
+        "event_id": "957efc58746b8414",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "LRAD Assisting In Fight Against Piracy",
+        "english_summary": "LRAD acoustic devices are used to assist in anti-piracy operations.",
+        "canonical_event": "LRAD acoustic device used for anti-piracy",
+        "reason": "Technology/product feature article rather than an operational piracy event."
+      }
+    },
+    "de428950e5e4739fac6bc9dc6d9bd9f88d3e09e9c0b6bcb7d66f521dd16b84a0": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724160+00:00",
+      "result": {
+        "event_id": "9c5658944d6e35bd",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "Redwise Delivers The Long Way To Avoid Piracy",
+        "english_summary": "Redwise delivers a vessel taking a longer route to avoid piracy areas.",
+        "canonical_event": "Vessel takes alternative route to avoid piracy area",
+        "reason": "General shipping route adjustment story, not a specific piracy attack or incident."
+      }
+    },
+    "476e3f3c080fb93c6a54976782a798493f43c4d43947f8dce827834189c61bcc": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724162+00:00",
+      "result": {
+        "event_id": "52c33ccc2da02533",
+        "relevance_score": 0,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "MS&D 2009 Hamburg",
+        "english_summary": "Notice or mention of the MS&D 2009 conference in Hamburg.",
+        "canonical_event": "MS&D 2009 conference in Hamburg",
+        "reason": "Conference announcement and general maritime defense exhibition news."
+      }
+    },
+    "89f9f4f0d78ef63190b183ab8b247af6b61bd7bb2aae38f6ddeb02decc00376f": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724165+00:00",
+      "result": {
+        "event_id": "f176f1b897663fa7",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "Counter-Piracy Training, Support And Certification",
+        "english_summary": "Training and certification services offered for counter-piracy.",
+        "canonical_event": "Counter-piracy training and certification offering",
+        "reason": "Commercial training advertisement rather than a specific operational incident."
+      }
+    },
+    "e489a9ae58bb8ba3faa66c0da6baf24463c7e6e4ca7c79c46ae85507ae0a28a3": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724170+00:00",
+      "result": {
+        "event_id": "33978ded3be9f9eb",
+        "relevance_score": 90,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Pirates attack two ships in Indian Ocean - one hijacked, one evades",
+        "english_summary": "Pirates in the Indian Ocean attacked two ships, successfully hijacking one while the other evaded the attack.",
+        "canonical_event": "Pirates attack two ships in Indian Ocean, hijacking one and failing on the other",
+        "reason": "Confirmed operational maritime piracy attack resulting in a vessel hijacking."
+      }
+    },
+    "54e400f85394c0a8f9a4e1a58982bc99671cee6aff6b2b42ad7aa74dcf04a5c2": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724173+00:00",
+      "result": {
+        "event_id": "76f181881a637003",
+        "relevance_score": 75,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Win Far Released By Pirates After 10 Months",
+        "english_summary": "The vessel Win Far has been released by pirates after being held for 10 months.",
+        "canonical_event": "Vessel Win Far released by pirates after 10 months captivity",
+        "reason": "Operational resolution of a maritime hijacking case."
+      }
+    },
+    "d98ddf9a9e37fa7f2fc8c47f61d104ab16b25213d399e5ef607c37f2d916f354": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724177+00:00",
+      "result": {
+        "event_id": "4fe47968806d0eb2",
+        "relevance_score": 85,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "USS Ashland Captures Pirates",
+        "english_summary": "The USS Ashland successfully captures pirates at sea.",
+        "canonical_event": "USS Ashland captures pirates at sea",
+        "reason": "Direct operational military counter-piracy action and capture of pirates."
+      }
+    },
+    "86ad313aa96f7868502d9594fe17944c5451b43b605d06a8d326a7a995ff40d9": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724180+00:00",
+      "result": {
+        "event_id": "d1977bf07b3acbda",
+        "relevance_score": 75,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Turkish Bulk Carrier Released By Pirates",
+        "english_summary": "A Turkish bulk carrier held by pirates has been released.",
+        "canonical_event": "Turkish bulk carrier released by pirates",
+        "reason": "Resolution of a maritime hijacking incident."
+      }
+    },
+    "7e3dae536dcfb96986090050a5de433ea9e4984fce1fe4c9716ee0aa6f291d29": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724183+00:00",
+      "result": {
+        "event_id": "94e89029c40492a4",
+        "relevance_score": 45,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "Malaysia's Export Control Law: A Step Forward, But How Big?",
+        "english_summary": "An analysis of Malaysia's export control legislation regarding WMD materials.",
+        "canonical_event": "Analysis of Malaysia export control law",
+        "reason": "Policy commentary and legislative analysis rather than a specific CT or CBRN security incident/seizure."
+      }
+    },
+    "4112c994af4b4c5f2dabc90d6e2bc23a9eaeaef844fff69b2ec2163a74e11d1e": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724186+00:00",
+      "result": {
+        "event_id": "1cd1a8bb82df5fcf",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "Evaluating & Implementing Effective Anti-Piracy Technology & Technique",
+        "english_summary": "Discussion of anti-piracy technologies and techniques for shipping.",
+        "canonical_event": "Evaluation of anti-piracy technologies and techniques",
+        "reason": "General technical commentary/guidance article, not an operational incident."
+      }
+    },
+    "a9e2ecdb4bd404fd17ecdeba678a2a5a3f347613971ffe4ce7b51c3bbf3a5eaf": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724189+00:00",
+      "result": {
+        "event_id": "5ec83b8e3950d6c0",
+        "relevance_score": 75,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "MV Izumi Released By Pirates",
+        "english_summary": "The hijacked vessel MV Izumi has been released by pirates.",
+        "canonical_event": "MV Izumi released by pirates",
+        "reason": "Operational resolution of a maritime hijacking."
+      }
+    },
+    "3ae236b964ae469bef5892433b1dbe53cc728ea2545d335c3634814a3bd6df62": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724192+00:00",
+      "result": {
+        "event_id": "6cfcd2dc3d645a0d",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "Shipping Industry Embraces Scanjet Anti-piracy Solution",
+        "english_summary": "The shipping industry adopts Scanjet's anti-piracy equipment.",
+        "canonical_event": "Shipping industry adopts Scanjet anti-piracy solution",
+        "reason": "Commercial equipment adoption announcement."
+      }
+    },
+    "c1f9180078f60e1a8141b92bb06aecee45a93a5b56bead891646d3cd677a525d": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724194+00:00",
+      "result": {
+        "event_id": "a7d6695ae3f1730d",
+        "relevance_score": 20,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "SaveOurSeafarers Campaign Responds to Piracy Threat",
+        "english_summary": "The SaveOurSeafarers campaign issues a response to the ongoing piracy threat.",
+        "canonical_event": "SaveOurSeafarers campaign responds to piracy threat",
+        "reason": "Industry lobbying or awareness campaign announcement rather than an operational incident."
+      }
+    },
+    "7dc5d6c12ce9a31d77955970636a473e956ca4b32966e7aa0ae9e245f922197f": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724197+00:00",
+      "result": {
+        "event_id": "8b765a27c87bd7cd",
+        "relevance_score": 25,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "Declaration condemning acts of violence against seafarers signed",
+        "english_summary": "Top flag states sign a declaration condemning violence against seafarers.",
+        "canonical_event": "Flag states sign declaration condemning violence against seafarers",
+        "reason": "Diplomatic/policy declaration rather than an operational security event."
+      }
+    },
+    "eba0f388a54d1e95875f3254dd82757806cc0661908c1318c85e2482581bb523": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724200+00:00",
+      "result": {
+        "event_id": "44a9247a457d17f4",
+        "relevance_score": 15,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "New Anti-Pirate Water Cannon Video Released",
+        "english_summary": "A video showcasing a new anti-pirate water cannon has been released.",
+        "canonical_event": "Release of video featuring anti-pirate water cannon",
+        "reason": "Product demonstration video announcement."
+      }
+    },
+    "76e2cde1633488e297bfca2cf61e2d337000ee9de877032f298b2d9f34896e08": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724203+00:00",
+      "result": {
+        "event_id": "5f88833ede65211f",
+        "relevance_score": 70,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Pirate activity in the Red Sea – Eritrea area",
+        "english_summary": "Advisory on pirate activity reported in the Red Sea and Eritrea area.",
+        "canonical_event": "Pirate activity reported in Red Sea Eritrea area",
+        "reason": "Operational maritime security warning regarding active piracy threats."
+      }
+    },
+    "7d049bdc47612504ba6ba8a4c82073bac265f1ebeca070f9c1517f0763ad05f6": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724206+00:00",
+      "result": {
+        "event_id": "ee0f06567f4ddd06",
+        "relevance_score": 20,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "Vessel tracking for piracy alerts and warnings",
+        "english_summary": "Article discussing vessel tracking systems for piracy alerts.",
+        "canonical_event": "Discussion of vessel tracking for piracy alerts",
+        "reason": "General maritime tracking technology guidance."
+      }
+    },
+    "1cb6b5f1ca876096e0bd332c114076235358db742db1c12775f37a7d6cb4ab98": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:35.724209+00:00",
+      "result": {
+        "event_id": "73220f4dc553ae57",
+        "relevance_score": 20,
+        "is_current_ct_event": false,
+        "categories": [],
+        "original_language": "en",
+        "english_title": "Private armed guards only a quick fix against piracy",
+        "english_summary": "Opinion/analysis piece arguing that private armed guards are a temporary fix for maritime piracy.",
+        "canonical_event": "Commentary on private armed guards against piracy",
+        "reason": "Opinion piece/commentary rather than a specific operational event."
+      }
+    },
+    "91ead77556318c829bc5484957f979d54ee299dc877e2c7cdb6d8d99231acb9f": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195753+00:00",
+      "result": {
+        "event_id": "231f6d3e2c0f50c9",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Anti-Piracy Device Nets Interest",
+        "english_summary": "An article discusses commercial interest in an anti-piracy device.",
+        "canonical_event": "commercial interest in anti-piracy device",
+        "reason": "Commercial product advertisement and commentary rather than an actual maritime piracy or security incident."
+      }
+    },
+    "7bf0a2eb720a073b9d8c19c19fa576da46a7988c0aed97514361c678493da129": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195772+00:00",
+      "result": {
+        "event_id": "b4858f7e9d7fc1a2",
+        "relevance_score": 75,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Somali Pirates Team Up to Fight Local Police",
+        "english_summary": "Reports indicate that Somali pirates have formed an alliance to engage local police forces.",
+        "canonical_event": "Somali pirates alliance to fight local police in Somalia",
+        "reason": "Genuinely relevant maritime piracy operational development involving armed clashes with security forces."
+      }
+    },
+    "311650d62f2ae4575400c93b2d1751904f5ea81bc5bd3495f19787146971e498": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195776+00:00",
+      "result": {
+        "event_id": "31244da2435a4196",
+        "relevance_score": 75,
+        "is_current_ct_event": true,
+        "categories": [
+          "Legal / Judicial",
+          "CBRN"
+        ],
+        "original_language": "fr",
+        "english_title": "Japan: 16 Years of Legal Proceedings for the Sarin Gas Attack",
+        "english_summary": "Review of the 16-year long judicial proceedings following the Aum Shinrikyo sarin gas attack in Japan.",
+        "canonical_event": "legal proceedings and sentencing conclusion for Aum Shinrikyo sarin gas attack in Japan",
+        "reason": "Long-running judicial/legal developments regarding a major terrorist CBRN attack."
+      }
+    },
+    "5ce4703db78a71e5dd9227b0cec18af4c075209926dbc80b5debf3a13f3bcea0": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195779+00:00",
+      "result": {
+        "event_id": "c3aa8d5bdaa84cd2",
+        "relevance_score": 80,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Italian Ship Hijacked by Pirates in April Freed",
+        "english_summary": "An Italian vessel that was hijacked by pirates in April has been released.",
+        "canonical_event": "release of Italian ship hijacked by pirates",
+        "reason": "Resolution of a maritime hijacking/piracy hostage incident."
+      }
+    },
+    "b4f6ef9ca4badc28ee70df048476f2a4158f2aea3f4024578c9c109ff2172d11": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195782+00:00",
+      "result": {
+        "event_id": "8cb6d312ee15905a",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "India Chemical Facilities Overview",
+        "english_summary": "A reference overview of chemical facilities in India published by NTI.",
+        "canonical_event": "encyclopedic overview of India chemical facilities",
+        "reason": "General reference material/database entry on chemical facilities rather than a concrete CT or security event."
+      }
+    },
+    "e65a941826dc6d7759524d8b8d4d06ef9c69b6c8321144129320756e43b3024d": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195785+00:00",
+      "result": {
+        "event_id": "6607eec027e284d3",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "North Korea Biological Facilities Overview",
+        "english_summary": "A reference overview of biological facilities in North Korea published by NTI.",
+        "canonical_event": "encyclopedic overview of North Korea biological facilities",
+        "reason": "General reference/background profile rather than a current CT or security incident."
+      }
+    },
+    "8082cd30e6d5a4794409346912449e4fd4e801d1e85bdb3587184363bb43a648": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195788+00:00",
+      "result": {
+        "event_id": "5e60572c49e14869",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "Preventing Nuclear Proliferation Using Machine Learning and Open-Source Data",
+        "english_summary": "An analytical piece discussing the application of machine learning to open-source data for nuclear non-proliferation.",
+        "canonical_event": "methodological discussion on preventing nuclear proliferation using machine learning",
+        "reason": "Generic commentary, technical methodology and non-proliferation overview without a specific active CT plot or event."
+      }
+    },
+    "20c38455c7f041b0444ae4bfb18376bd85821ff27b710e7aa5507cea20c31671": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195791+00:00",
+      "result": {
+        "event_id": "011b35214786519b",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "Aum Shinrikyo Bioweapons Development Issue Brief",
+        "english_summary": "An issue brief detailing historical bioweapons development by the Aum Shinrikyo cult.",
+        "canonical_event": "historical issue brief on Aum Shinrikyo bioweapons development",
+        "reason": "Historical background overview/case study rather than a current operational intelligence event."
+      }
+    },
+    "40635e820abb46c4b71f11c78a6eb96cd8a1287036048d5fd23008b3d7791b7c": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195794+00:00",
+      "result": {
+        "event_id": "d35168300e9ec962",
+        "relevance_score": 85,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Pirate Attack on the EU NAVFOR Flagship",
+        "english_summary": "Pirates launched an attack targeting an EU NAVFOR flagship vessel.",
+        "canonical_event": "pirate attack on EU NAVFOR flagship vessel at sea",
+        "reason": "Direct pirate attack on a naval flagship vessel."
+      }
+    },
+    "9945f323d66f4d8157af9e9422e105a722b9183eb7e03bfdb00e305c09da23c5": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195797+00:00",
+      "result": {
+        "event_id": "b6fb23d69f7732b0",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "ISS Launches Anti-Piracy Solution",
+        "english_summary": "A commercial maritime service provider announces the launch of a new anti-piracy product.",
+        "canonical_event": "commercial launch of anti-piracy solution by ISS",
+        "reason": "Commercial product launch announcement rather than a piracy incident."
+      }
+    },
+    "9af11d7f196aa7a36061aaf4b60cad7ba382defe558011a18867f0bdbdcb1d6e": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195801+00:00",
+      "result": {
+        "event_id": "81465e8eb84e1f45",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "UK Home Office Publications / Guidance",
+        "english_summary": "A generic landing page for UK Home Office administrative and regulatory information.",
+        "canonical_event": "UK Home Office official portal page",
+        "reason": "Generic government administrative link without a specific threat, attack, or CT event."
+      }
+    },
+    "4243b8ec8b4315f2f4d0d55f92cd18676f5ad21aca1388344e9676b0ada46da1": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195803+00:00",
+      "result": {
+        "event_id": "46cddbc9dac9a304",
+        "relevance_score": 75,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Overrun by Pirate Prisoners, Seychelles Call for Help",
+        "english_summary": "Seychelles authorities report being overwhelmed by detained pirate prisoners and request international assistance.",
+        "canonical_event": "Seychelles request assistance due to overcrowding of pirate prisoners",
+        "reason": "Operational security and detention issue directly stemming from maritime piracy arrests."
+      }
+    },
+    "a9d74b6b77b2ca44b62d4895a0ddb9cf2995740b7251b8297015fbb0cedb0152": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195806+00:00",
+      "result": {
+        "event_id": "cd09471cc41dd579",
+        "relevance_score": 80,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy",
+          "Arrests"
+        ],
+        "original_language": "en",
+        "english_title": "Most Wanted Somali Pirate Seized",
+        "english_summary": "Authorities successfully capture and seize a high-profile, most-wanted Somali pirate leader.",
+        "canonical_event": "arrest of high-profile Somali pirate leader",
+        "reason": "High-value arrest of a key maritime piracy figure."
+      }
+    },
+    "3bfc24c051a62a72020bb6fc8fb47b3a424b7673671b9046a5a488a5eb278ccd": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195809+00:00",
+      "result": {
+        "event_id": "e5d1f7f00279096c",
+        "relevance_score": 80,
+        "is_current_ct_event": true,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Somali Pirates Release Italian Tanker Enrico Ievoli and Crew",
+        "english_summary": "Somali pirates release the hijacked Italian tanker Enrico Ievoli along with its crew.",
+        "canonical_event": "release of hijacked Italian tanker Enrico Ievoli and crew by Somali pirates",
+        "reason": "Successful resolution of a high-profile vessel hijacking and crew hostage situation."
+      }
+    },
+    "6834f3593cfe7a7054b537177fbd7a0965e4adbb9bf3176211f3419bf71550a6": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195812+00:00",
+      "result": {
+        "event_id": "3e50ef725784d559",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Protecting Yourself Before, During, and After a Pirate Attack",
+        "english_summary": "Advisory and safety guidelines for vessel crews on how to handle pirate attacks.",
+        "canonical_event": "maritime safety advisory on self-protection against pirate attacks",
+        "reason": "General preparedness/safety advice rather than a specific piracy event."
+      }
+    },
+    "45f5c3a54ad1b712be7b04c4333d5cfec25275c6484f711571e745c0ba57cf34": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195815+00:00",
+      "result": {
+        "event_id": "3ca68b9ea136bd4e",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "Anti-Piracy and the Use of Force",
+        "english_summary": "Legal commentary discussing the rules regarding the use of force in anti-piracy operations.",
+        "canonical_event": "legal commentary on use of force in anti-piracy operations",
+        "reason": "Legal analysis and commentary rather than a concrete piracy incident."
+      }
+    },
+    "56bb79065e50150fc6a650054beb8c17107f278fc785e8eefd3790f9d02af922": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195818+00:00",
+      "result": {
+        "event_id": "c5a9d9c45f5ad140",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "Maritime Piracy"
+        ],
+        "original_language": "en",
+        "english_title": "'Aero-Citadel' Anti-Piracy Ship Superstructure Design",
+        "english_summary": "An article describes a new 'Aero-Citadel' architectural design concept for ship superstructures to counter piracy.",
+        "canonical_event": "presentation of Aero-Citadel anti-piracy ship design concept",
+        "reason": "Naval architecture and engineering concept rather than an actual security or piracy incident."
+      }
+    },
+    "c756d54f1b54e49a8b732ec528cb9c32393893d300420fbd436eab82c31d1fc3": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195822+00:00",
+      "result": {
+        "event_id": "b6a4c3d8bb57fc9c",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "Iraq Biological Weapons Overview",
+        "english_summary": "An encyclopedic overview of Iraq's historical biological weapons programs.",
+        "canonical_event": "historical overview of Iraq biological weapons program",
+        "reason": "Historical background reference rather than a current CT or security threat."
+      }
+    },
+    "21cae8c8b3f392c1138902184584a488e120b15309dbe8146e99c4c60d9d74f4": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195826+00:00",
+      "result": {
+        "event_id": "66d21492e6148142",
+        "relevance_score": 80,
+        "is_current_ct_event": true,
+        "categories": [
+          "Attacks"
+        ],
+        "original_language": "fr",
+        "english_title": "Mali, the Globe's New Jihadist Bastion? Concern in Europe",
+        "english_summary": "Analysis and security reporting expressing concern over Mali emerging as a major jihadist stronghold and staging ground for attacks.",
+        "canonical_event": "security assessment of Mali as emerging jihadist stronghold and threat in West Africa",
+        "reason": "Substantive strategic security assessment regarding militant jihadist expansion and terrorist threats in Mali."
+      }
+    },
+    "4fea3fa9e8a027f58f5d2cae9668234ee3b7edbda0c229088c43b4e4dbfe9443": {
+      "version": "gemini-ct-selection-v3-specialist",
+      "reviewed_at": "2026-09-05T18:27:52.195829+00:00",
+      "result": {
+        "event_id": "53b54c57512f3bee",
+        "relevance_score": 10,
+        "is_current_ct_event": false,
+        "categories": [
+          "CBRN"
+        ],
+        "original_language": "en",
+        "english_title": "End-User Certificate Requirements for Chemical Weapons Convention Schedule 3 Chemicals",
+        "english_summary": "Government regulatory notice regarding end-user certificate requirements for exporting certain scheduled chemicals.",
+        "canonical_event": "government regulatory notice on chemical export end-user certificates",
+        "reason": "Routine regulatory compliance and arms-control administrative guidance rather than a CT event or illicit proliferation plot."
+      }
     }
   },
-  "last_updated": "2026-09-05T13:41:54.708328+00:00",
+  "last_updated": "2026-09-05T18:30:23.684506+00:00",
   "backfill_rss_snapshots": {
     "4bdbe2024cdb78abf26b9d252104dffde103b36d524e9193c90e9800bcfbd952": {
       "day": "2026-09-05",
